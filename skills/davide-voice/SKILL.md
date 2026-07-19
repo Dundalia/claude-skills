@@ -180,6 +180,22 @@ When imitating a voice, the trap is to turn natural habits into theatrical "sign
 - **Don't manufacture catchphrases.** A phrase used once in context is not a trademark.
 - **Don't announce the narrative.** No "here's the story", "buckle up", "let me tell you about".
   Start on the thing itself.
+- **No announcer sentences (academic prose included).** A sentence whose only job is to announce
+  that the next sentence will say something is dead weight. If a sentence contains no model, no
+  data, no fact, and the reader learns nothing until the following one, delete it and start on the
+  content. This is Davide's most frequently repeated correction.
+  - BAD: "A closely related property names what oversight needs directly. A model's chain of
+    thought is monitorable when..."
+  - GOOD: "A closely related property is monitorability. A model's chain of thought is monitorable
+    when..."
+  - More BAD examples caught in real drafts: "This shift is not incidental." · "Each form of
+    oversight rests on the same property." · "The second work makes the same move where the
+    capability is statistical." · "Two fronts that meet."
+- **No abstractions performing actions.** The announcer sentence's sibling tell: an abstraction
+  doing a metaphorical verb to another abstraction ("a property *names* what oversight *needs*",
+  "the question *decides*", "a request that *calls for* randomness"). Concepts do not act. Give
+  the sentence a concrete subject (the model, the monitor, the experiment) or state the fact
+  directly.
 - **Don't perform casualness or formality.** If the text feels like it is trying hard to sound a
   certain way, it is failing. Real writing does not draw attention to its own tone.
 - **Don't over-polish the arc.** Real writing is slightly uneven. Not every paragraph needs to land.
